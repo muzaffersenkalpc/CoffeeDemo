@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CoffeeDemo": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
